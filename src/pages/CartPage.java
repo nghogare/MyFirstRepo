@@ -12,5 +12,9 @@ public class CartPage {
 		System.out.println("Cart page 2");
 	}
 	
+	public void addToCart3(){
+		
+		System.out.println("Cart page 3");
+	}
 
 }
